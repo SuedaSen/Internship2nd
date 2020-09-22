@@ -35,8 +35,8 @@ namespace Api
             //Web Api Veri çekmek için kullandığımız kod 
             var client = new RestClient("http://localhost:44318/api/Kisi");
             var request = new RestRequest(Method.GET);
-            request.AddHeader("Postman-Token", "5e158554-1c60-41c8-867f-58dde746979f");
-            request.AddHeader("Ad", "Soyad");
+            request.AddHeader("Postman-Token", "759eb826-dfc4-4ca6-8421-030ef2edfd63");
+            request.AddHeader("Ad", "Soyad"); //Buraya ne yazacağımı bilemedim
             IRestResponse response = client.Execute(request);
 
             //Json formatında çıktı oluşturmak için JToken 
