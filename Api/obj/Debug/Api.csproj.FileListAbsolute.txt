@@ -1,0 +1,15 @@
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\Api.exe.config
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\Api.exe
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\Api.pdb
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\RestSharp.dll
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sen\source\repos\WebApiExample\Api\bin\Debug\RestSharp.xml
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.csprojAssemblyReference.cache
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.Form1.resources
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.Properties.Resources.resources
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.csproj.GenerateResource.cache
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.csproj.CopyComplete
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.exe
+C:\Users\sen\source\repos\WebApiExample\Api\obj\Debug\Api.pdb
