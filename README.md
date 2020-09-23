@@ -1,4 +1,4 @@
-# Internship2rd
+# Internship2nd
 **WebApiExample**
 ![https___localhost_44318_api_Kisi - Opera 22 09 2020 22_46_12](https://user-images.githubusercontent.com/59293554/93939073-eaefd600-fd32-11ea-8055-2d93818e1d85.png)
 **Postman Connection**
